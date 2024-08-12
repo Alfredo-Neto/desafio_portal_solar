@@ -1,0 +1,28 @@
+current directory: /home/alfredo/workspace/desafio_portal_solar/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+/home/alfredo/.asdf/installs/ruby/3.2.1/bin/ruby -I /home/alfredo/.asdf/installs/ruby/3.2.1/lib/ruby/site_ruby/3.2.0 extconf.rb
+/home/alfredo/.asdf/installs/ruby/3.2.1/bin/ruby: warning: Ruby was built without YJIT support. You may need to install rustc to build Ruby with YJIT.
+checking for whether -std=gnu99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /home/alfredo/workspace/desafio_portal_solar/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240812-397588-inxnki sitelibdir\=./.gem.20240812-397588-inxnki clean
+
+current directory: /home/alfredo/workspace/desafio_portal_solar/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240812-397588-inxnki sitelibdir\=./.gem.20240812-397588-inxnki
+compiling constants.c
+compiling lexer.c
+compiling lexstate.c
+compiling location.c
+compiling main.c
+compiling parser.c
+compiling parserstate.c
+compiling ruby_objs.c
+compiling unescape.c
+linking shared-object rbs_extension.so
+
+current directory: /home/alfredo/workspace/desafio_portal_solar/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240812-397588-inxnki sitelibdir\=./.gem.20240812-397588-inxnki install
+/usr/bin/install -c -m 0755 rbs_extension.so ./.gem.20240812-397588-inxnki
+
+current directory: /home/alfredo/workspace/desafio_portal_solar/vendor/bundle/ruby/3.2.0/gems/rbs-3.5.2/ext/rbs_extension
+make DESTDIR\= sitearchdir\=./.gem.20240812-397588-inxnki sitelibdir\=./.gem.20240812-397588-inxnki clean
