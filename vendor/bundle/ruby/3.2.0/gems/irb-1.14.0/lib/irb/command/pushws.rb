@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   change-ws.rb -
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

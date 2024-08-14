@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # -*- encoding: utf-8 -*-
 # stub: rbs 3.5.2 ruby lib
 # stub: ext/rbs_extension/extconf.rb

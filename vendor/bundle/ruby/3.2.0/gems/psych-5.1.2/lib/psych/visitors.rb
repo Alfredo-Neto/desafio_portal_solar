@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_relative 'visitors/visitor'
 require_relative 'visitors/to_ruby'
 require_relative 'visitors/emitter'

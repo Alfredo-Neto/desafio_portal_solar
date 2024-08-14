@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   xmp.rb - irb version of gotoken xmp
 #   	by Keiju ISHITSUKA(Nippon Rational Inc.)

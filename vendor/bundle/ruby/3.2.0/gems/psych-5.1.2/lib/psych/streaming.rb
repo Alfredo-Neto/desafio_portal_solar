@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module Psych
   module Streaming
     module ClassMethods

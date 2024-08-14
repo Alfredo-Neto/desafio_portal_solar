@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "language_server/protocol/version"
 require "language_server/protocol/constant"
 require "language_server/protocol/interface"

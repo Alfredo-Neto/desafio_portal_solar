@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # coding: US-ASCII
 # frozen_string_literal: true
 

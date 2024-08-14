@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/locale.rb - internationalization module
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

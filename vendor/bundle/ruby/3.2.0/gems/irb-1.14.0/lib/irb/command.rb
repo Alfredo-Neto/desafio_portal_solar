@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/command.rb - irb command
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

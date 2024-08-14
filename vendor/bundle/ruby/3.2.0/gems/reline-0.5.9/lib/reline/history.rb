@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::History < Array
   def initialize(config)
     @config = config

@@ -1,4 +1,5 @@
-# frozen_string_literal: false
+# frozen_string_literal: true
+
 require 'mkmf'
 
 have_func("rb_io_path")

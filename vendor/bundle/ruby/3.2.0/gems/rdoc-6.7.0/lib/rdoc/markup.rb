@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # RDoc::Markup parses plain text documents and attempts to decompose them into
 # their constituent parts.  Some of these parts are high-level: paragraphs,

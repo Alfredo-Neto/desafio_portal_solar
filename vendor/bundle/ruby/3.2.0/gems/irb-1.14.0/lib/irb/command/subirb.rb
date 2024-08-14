@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   multi.rb -
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

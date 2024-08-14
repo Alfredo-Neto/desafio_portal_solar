@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module Psych
   module Visitors
     class Emitter < Psych::Visitors::Visitor

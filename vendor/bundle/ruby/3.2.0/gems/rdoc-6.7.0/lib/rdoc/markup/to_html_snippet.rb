@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Outputs RDoc markup as paragraphs with inline markup only.
 

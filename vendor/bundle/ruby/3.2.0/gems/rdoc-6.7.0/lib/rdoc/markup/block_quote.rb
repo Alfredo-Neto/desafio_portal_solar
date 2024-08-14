@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # A quoted section which contains markup items.
 

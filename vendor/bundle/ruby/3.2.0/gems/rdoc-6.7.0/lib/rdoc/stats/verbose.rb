@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Stats printer that prints everything documented, including the documented
 # status

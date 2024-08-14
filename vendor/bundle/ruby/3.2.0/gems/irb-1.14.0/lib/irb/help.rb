@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/help.rb - print usage module
 #   	by Keiju ISHITSUKA(keiju@ishitsuka.com)

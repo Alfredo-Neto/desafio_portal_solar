@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # A comment holds the text comment for a RDoc::CodeObject and provides a
 # unified way of cleaning it up and parsing it into an RDoc::Markup::Document.

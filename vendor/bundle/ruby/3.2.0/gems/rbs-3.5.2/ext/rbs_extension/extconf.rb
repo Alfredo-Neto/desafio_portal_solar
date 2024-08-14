@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'mkmf'
 $INCFLAGS << " -I$(top_srcdir)" if $extmk
 append_cflags ['-std=gnu99']

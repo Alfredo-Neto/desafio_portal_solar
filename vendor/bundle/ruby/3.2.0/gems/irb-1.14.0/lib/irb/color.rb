@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require 'reline'
 require 'ripper'
 require_relative 'ruby-lex'

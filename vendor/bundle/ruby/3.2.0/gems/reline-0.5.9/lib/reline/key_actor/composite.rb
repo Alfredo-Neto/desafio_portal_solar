@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::KeyActor::Composite
   def initialize(key_actors)
     @key_actors = key_actors

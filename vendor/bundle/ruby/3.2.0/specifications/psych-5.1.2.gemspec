@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # -*- encoding: utf-8 -*-
 # stub: psych 5.1.2 ruby lib
 # stub: ext/psych/extconf.rb

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # A hard-break in the middle of a paragraph.
 

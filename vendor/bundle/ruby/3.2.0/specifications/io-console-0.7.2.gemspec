@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # -*- encoding: utf-8 -*-
 # stub: io-console 0.7.2 ruby lib
 # stub: ext/io/console/extconf.rb

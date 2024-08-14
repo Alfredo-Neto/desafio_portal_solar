@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: ignore
 
 # Work around an interaction bug with sorbet-runtime and rspec-mocks,

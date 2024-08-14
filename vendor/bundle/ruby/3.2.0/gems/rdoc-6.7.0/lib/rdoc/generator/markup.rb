@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Handle common RDoc::Markup tasks for various CodeObjects
 #

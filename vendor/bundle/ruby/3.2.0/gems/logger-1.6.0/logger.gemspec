@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 begin
   require_relative "lib/logger/version"
 rescue LoadError # Fallback to load version file in ruby core repository

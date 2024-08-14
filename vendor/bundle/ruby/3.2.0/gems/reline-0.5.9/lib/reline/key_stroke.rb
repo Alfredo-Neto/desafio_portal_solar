@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::KeyStroke
   ESC_BYTE = 27
   CSI_PARAMETER_BYTES_RANGE = 0x30..0x3f

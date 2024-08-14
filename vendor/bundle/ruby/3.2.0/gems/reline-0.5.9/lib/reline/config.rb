@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::Config
   attr_reader :test_mode
 

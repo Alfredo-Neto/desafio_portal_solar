@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Inline keeps track of markup and labels to create proper links.
 

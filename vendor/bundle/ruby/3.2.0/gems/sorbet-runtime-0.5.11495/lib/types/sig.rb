@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: strict
 
 # Used as a mixin to any class so that you can call `sig`.

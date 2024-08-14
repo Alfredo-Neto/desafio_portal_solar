@@ -1,4 +1,5 @@
-# frozen_string_literal: false
+# frozen_string_literal: true
+
 require 'mkmf'
 if RUBY_ENGINE == 'ruby'
   create_makefile('stringio')

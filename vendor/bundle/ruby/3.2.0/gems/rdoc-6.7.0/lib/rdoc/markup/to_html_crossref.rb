@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Subclass of the RDoc::Markup::ToHtml class that supports looking up method
 # names, classes, etc to create links.  RDoc::CrossReference is used to

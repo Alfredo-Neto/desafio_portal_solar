@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Collection of methods for writing parsers
 

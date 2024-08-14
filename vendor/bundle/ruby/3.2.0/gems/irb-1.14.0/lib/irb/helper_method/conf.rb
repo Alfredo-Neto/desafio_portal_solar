@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module IRB
   module HelperMethod
     class Conf < Base

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Reline::KeyActor
   VI_COMMAND_MAPPING = [
     #   0 ^@

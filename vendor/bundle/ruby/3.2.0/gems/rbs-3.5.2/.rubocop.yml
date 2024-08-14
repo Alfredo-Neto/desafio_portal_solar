@@ -16,5 +16,6 @@ Lint/DuplicateMethods:
 
 Style/FrozenStringLiteralComment:
   Enabled: true
+  EnforcedStyle: always
   Include:
     - 'lib/**/*.rb'

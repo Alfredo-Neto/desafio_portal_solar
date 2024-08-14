@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # An empty line.  This class is a singleton.
 

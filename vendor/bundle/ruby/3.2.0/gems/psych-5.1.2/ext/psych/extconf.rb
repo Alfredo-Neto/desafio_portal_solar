@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # -*- coding: us-ascii -*-
 # frozen_string_literal: true
 require 'mkmf'

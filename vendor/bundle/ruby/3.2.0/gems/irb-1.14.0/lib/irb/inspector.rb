@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/inspector.rb - inspect methods
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

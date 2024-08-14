@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/ruby-lex.rb - ruby lexcal analyzer
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

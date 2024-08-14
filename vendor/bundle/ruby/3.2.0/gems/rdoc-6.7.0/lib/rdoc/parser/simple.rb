@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Parse a non-source file. We basically take the whole thing as one big
 # comment.

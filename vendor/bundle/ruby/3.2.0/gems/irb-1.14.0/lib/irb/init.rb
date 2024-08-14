@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/init.rb - irb initialize module
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

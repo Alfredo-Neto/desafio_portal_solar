@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # -*- encoding: utf-8 -*-
 # stub: language_server-protocol 3.17.0.3 ruby lib
 

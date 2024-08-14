@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: false
 
 # Cut down version of Chalk::Tools::ClassUtils with only :replace_method functionality.

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 module IRB
   module NestingParser
     IGNORE_TOKENS = %i[on_sp on_ignored_nl on_comment on_embdoc_beg on_embdoc on_embdoc_end]

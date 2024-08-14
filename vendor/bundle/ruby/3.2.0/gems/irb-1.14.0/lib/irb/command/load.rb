@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   load.rb -
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

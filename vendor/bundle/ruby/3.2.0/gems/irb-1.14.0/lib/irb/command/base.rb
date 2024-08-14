@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   nop.rb -
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

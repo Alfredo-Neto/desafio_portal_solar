@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 begin
   # Ignore warning `Add fiddle to your Gemfile or gemspec` in Ruby 3.4.
   # terminfo.rb and ansi.rb supports fiddle unavailable environment.

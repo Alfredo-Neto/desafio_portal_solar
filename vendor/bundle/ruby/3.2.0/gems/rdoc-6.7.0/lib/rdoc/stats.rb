@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # RDoc statistics collector which prints a summary and report of a project's
 # documentation totals.

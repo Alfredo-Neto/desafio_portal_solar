@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # A normal class, neither singleton nor anonymous
 

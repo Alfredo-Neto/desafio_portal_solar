@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/ext/cb.rb -
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

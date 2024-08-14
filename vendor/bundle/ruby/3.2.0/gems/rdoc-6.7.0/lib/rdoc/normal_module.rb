@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # A normal module, like NormalClass
 

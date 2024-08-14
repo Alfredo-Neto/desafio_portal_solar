@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require 'stringio'
 require_relative '../class_loader'
 require_relative '../scalar_scanner'

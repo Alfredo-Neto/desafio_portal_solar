@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: true
 
 # A marking class for when methods return void.

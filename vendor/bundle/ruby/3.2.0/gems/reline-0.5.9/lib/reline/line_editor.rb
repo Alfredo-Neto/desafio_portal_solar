@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'reline/kill_ring'
 require 'reline/unicode'
 

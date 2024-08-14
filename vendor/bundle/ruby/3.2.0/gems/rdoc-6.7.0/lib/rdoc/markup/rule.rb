@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # A horizontal rule with a weight
 

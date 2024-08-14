@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # -*- encoding: utf-8 -*-
 # stub: sorbet-runtime 0.5.11495 ruby lib
 

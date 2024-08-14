@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/input-method.rb - input methods used irb
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

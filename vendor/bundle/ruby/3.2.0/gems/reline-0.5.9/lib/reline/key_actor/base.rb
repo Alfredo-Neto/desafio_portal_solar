@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::KeyActor::Base
   def initialize(mapping = [])
     @mapping = mapping

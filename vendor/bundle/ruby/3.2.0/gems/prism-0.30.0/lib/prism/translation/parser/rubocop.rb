@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: ignore
 
 warn "WARN: Prism is directly supported since RuboCop 1.62. The `prism/translation/parser/rubocop` file is deprecated."

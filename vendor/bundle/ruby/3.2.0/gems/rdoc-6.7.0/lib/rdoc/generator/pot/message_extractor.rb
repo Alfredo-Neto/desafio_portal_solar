@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Extracts message from RDoc::Store
 

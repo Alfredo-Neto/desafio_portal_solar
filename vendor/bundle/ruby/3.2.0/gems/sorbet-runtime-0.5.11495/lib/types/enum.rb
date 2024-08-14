@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: strict
 
 # Enumerations allow for type-safe declarations of a fixed set of values.

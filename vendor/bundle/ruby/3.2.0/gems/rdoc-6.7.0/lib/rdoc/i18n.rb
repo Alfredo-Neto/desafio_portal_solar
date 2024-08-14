@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # This module provides i18n related features.
 

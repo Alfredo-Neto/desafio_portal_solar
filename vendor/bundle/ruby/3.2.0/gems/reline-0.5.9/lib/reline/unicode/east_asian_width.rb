@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::Unicode::EastAsianWidth
   # This is based on EastAsianWidth.txt
   # UNICODE_VERSION = '15.1.0'

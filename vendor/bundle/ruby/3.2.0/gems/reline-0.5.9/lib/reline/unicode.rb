@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Reline::Unicode
   EscapedPairs = {
     0x00 => '^@',

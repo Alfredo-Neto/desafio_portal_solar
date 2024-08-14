@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'io/console'
 require 'forwardable'
 require 'reline/version'

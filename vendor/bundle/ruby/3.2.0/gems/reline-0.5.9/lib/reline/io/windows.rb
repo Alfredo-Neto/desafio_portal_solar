@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'fiddle/import'
 
 class Reline::Windows < Reline::IO

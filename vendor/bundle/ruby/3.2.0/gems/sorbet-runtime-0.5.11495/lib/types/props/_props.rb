@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 # typed: true
 
 # A mixin for defining typed properties (attributes).

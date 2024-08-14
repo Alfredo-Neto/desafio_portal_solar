@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   use-loader.rb -
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

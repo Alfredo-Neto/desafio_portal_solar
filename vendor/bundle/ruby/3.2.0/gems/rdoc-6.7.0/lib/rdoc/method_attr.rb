@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Abstract class representing either a method or an attribute.
 

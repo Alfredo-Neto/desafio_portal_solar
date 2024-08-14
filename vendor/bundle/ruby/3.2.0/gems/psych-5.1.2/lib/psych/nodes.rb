@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require_relative 'nodes/node'
 require_relative 'nodes/stream'
 require_relative 'nodes/document'

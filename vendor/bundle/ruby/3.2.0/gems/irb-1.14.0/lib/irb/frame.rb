@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   frame.rb -
 #   	by Keiju ISHITSUKA(Nihon Rational Software Co.,Ltd)

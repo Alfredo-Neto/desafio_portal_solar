@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 #   irb/multi-irb.rb - multiple irb module
 #   	by Keiju ISHITSUKA(keiju@ruby-lang.org)

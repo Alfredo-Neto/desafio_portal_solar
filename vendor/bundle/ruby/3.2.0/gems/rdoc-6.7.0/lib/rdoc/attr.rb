@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # An attribute created by \#attr, \#attr_reader, \#attr_writer or
 # \#attr_accessor

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module DEBUGGER__
   module DAP_TraceInspector
     class MultiTracer < Tracer

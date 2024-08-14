@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 ##
 # Hold details of a regexp handling sequence
 
